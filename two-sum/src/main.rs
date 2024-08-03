@@ -8,8 +8,6 @@ use std::collections::{HashMap, HashSet};
 //
 
 fn main() {
-    println!("Hello, world!");
-
     two_sum_original(vec![2,7,11,15], 9);
     two_sum_optimized(vec![2,7,11,15], 9);
 
